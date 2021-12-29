@@ -1,2 +1,5 @@
 # FinalProjectAIS
-Ini adalah repository untuk menyimpan Final Project pada Mata Kuliah Arsitektur dan Integrasi System
+Ini adalah repository untuk menyimpan Final Project pada Mata Kuliah Arsitektur dan Integrasi System. Pada final Project ini kelompok kami diharuskan untuk mendemonstrasikan bagaimana cara sebuah aplikasi perusahaan melakukan pertukaran data. Kelompok kami memilih aplikasi Itemku dan mencari tahu bahwa aplikasi tersebut mengintegrasikan dirinya dengan OVO menggunakan API. Kelompok kami pun membuat sebuah Server dan CLient sederhana yang melakukan Request API menggunakan framework HAPI. Untuk melihat laporan dan process pembuatan, anda bisa melihat file finalproject.ppt
+
+Repository ini memiliki **Lisensi MIT.**      
+Lisensi ini membolehkan pengguna untuk melakukan perubahan apapun pada kode program. Lisensi ini hanya mewajibkan pengguna untuk menyertakan lisensi dan copyright pembuat pada kode yang didistribusikan ulang dan tidak ada larangan untuk menggunakan trademark dari pembuat asli. Selain itu pengguna juga tidak berhak untuk menuntut pembuat ketika terjadi kerusakan pada perangkat lunak tersebut.
